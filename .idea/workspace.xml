@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb363257-2a30-4cee-932d-4923ccbcd035" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1XdZSBWUtaKw7u7AoBARvPcpYH2" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/server/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb363257-2a30-4cee-932d-4923ccbcd035" name="Default Changelist" comment="" />
+      <created>1581377928237</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581377928237</updated>
+      <workItem from="1581377929353" duration="6901000" />
+      <workItem from="1581551130114" duration="14009000" />
+      <workItem from="1581895369590" duration="611000" />
+      <workItem from="1581933729399" duration="3864000" />
+      <workItem from="1582284069017" duration="942000" />
+      <workItem from="1582285014852" duration="2847000" />
+      <workItem from="1582547183591" duration="545000" />
+      <workItem from="1582673392918" duration="246000" />
+      <workItem from="1582971807130" duration="3788000" />
+      <workItem from="1583284127851" duration="10631000" />
+      <workItem from="1584375179157" duration="537000" />
+      <workItem from="1584535329872" duration="15786000" />
+      <workItem from="1585178364229" duration="3178000" />
+      <workItem from="1585421721846" duration="519000" />
+      <workItem from="1585522789050" duration="12510000" />
+      <workItem from="1586172243444" duration="3431000" />
+      <workItem from="1586375011599" duration="2847000" />
+      <workItem from="1586518031579" duration="460000" />
+      <workItem from="1586607502830" duration="2577000" />
+      <workItem from="1586731118944" duration="2162000" />
+      <workItem from="1586867744476" duration="5281000" />
+      <workItem from="1587068858958" duration="6551000" />
+      <workItem from="1587572954580" duration="478000" />
+      <workItem from="1587720591525" duration="4038000" />
+      <workItem from="1587894615140" duration="813000" />
+      <workItem from="1587983889187" duration="1247000" />
+      <workItem from="1588069232761" duration="5184000" />
+      <workItem from="1588328477696" duration="437000" />
+      <workItem from="1588414217660" duration="2364000" />
+      <workItem from="1588503945777" duration="1965000" />
+      <workItem from="1588557575559" duration="3051000" />
+      <workItem from="1588677525037" duration="1289000" />
+      <workItem from="1588756727399" duration="1188000" />
+      <workItem from="1588934731146" duration="2390000" />
+      <workItem from="1589247995978" duration="606000" />
+      <workItem from="1589280077998" duration="463000" />
+      <workItem from="1590540305556" duration="2515000" />
+      <workItem from="1590694278381" duration="576000" />
+      <workItem from="1590748872468" duration="1987000" />
+      <workItem from="1590841283038" duration="596000" />
+      <workItem from="1591011816799" duration="1892000" />
+      <workItem from="1591191811629" duration="1274000" />
+      <workItem from="1591388337755" duration="215000" />
+      <workItem from="1595778220601" duration="109000" />
+      <workItem from="1604406717707" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.sql" />
+  </component>
+</project>
